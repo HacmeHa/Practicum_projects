@@ -1,1 +1,1 @@
-# Practicum_projects
+# Проекты практикума
